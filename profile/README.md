@@ -1,4 +1,4 @@
-<a href="https://axepress.dev"><img align="center" src="assets/axepress-header.png" alt="AxePress Development - Headless WordPress Solutions"></a>
+<a href="https://axepress.dev"><img align="center" src="profile/assets/axepress-header.png" alt="AxePress Development - Headless WordPress Solutions"></a>
 <div align="center">
 <a href="https://github.com/sponsors/AxeWP" alt="GitHub Sponsors"><img src="https://img.shields.io/static/v1?label=Sponsor%20Us&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=for-the-badge" /></a> <a href="mailto:support@axepress.dev"><img src="https://img.shields.io/static/v1?label=Get%20Support&message=%E2%9C%89&color=2075b9&style=for-the-badge" /></a><br>
 </div>
