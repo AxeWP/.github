@@ -9,7 +9,16 @@
 
 We care deeply about the WPGraphQL ecosystem. Every dollar sponsored doesn't just go towards support and continued development of our plugins, but allows us to work on new open-source solutions and contribute back to WPGraphQL core and the Headless WordPress community.
 
+## Our Projects
+- [Headless Login for WPGraphQL](https://github.com/harness-software/wp-graphql-headless-login) - Adds support for a variety of login and authentication methods to WPGraphQL
+- [WPGraphQL for Gravity Forms](https://github.com/harness-software/wp-graphql-gravity-forms) - Adds [Gravity Forms](https://www.gravityforms.com/) support to WPGraphQL
+- [WPGraphQL for FacetWP](https://github.com/hsimah-services/wp-graphql-facetwp) - Adds [FacetWP](https://facetwp.com/) support to WPGraphQL
+- [WPGraphQL for RankMath SEO](https://github.com/axewp/wp-graphql-rank-math) - Adds [RankMath SEO](https://rankmath.com/) support to WPGraphQL
+- [WPGraphQL Stubs](https://github.com/axewp/wp-graphql-stubs) - Adds stubs for WPGraphQL to your IDE or static analysis tool
+- [WPGraphQL Plugin Boilerplate](https://github.com/axewp/wp-graphql-plugin-boilerplate) - A boilerplate for creating WPGraphQL extensions
+
+
 ## Getting Support 
-We provide free basic support for all our plugins in their respective GitHub repositories, as well as in the [WPGraphQL Community on Slack](https://join.slack.com/t/wp-graphql/shared_invite/zt-3vloo60z-PpJV2PFIwEathWDOxCTTLA). Additional tiers of support are available to our [Github Sponsors](https://github.com/sponsors/AxeWP).
+We provide free basic support for all our plugins in their respective GitHub repositories, as well as in the [WPGraphQL Community on Slack](https://join.slack.com/t/wp-graphql/shared_invite/zt-3vloo60z-PpJV2PFIwEathWDOxCTTLA). Additional tiers of support are available to our [Github Sponsors](https://github.com/sponsors/AxeWP), or via a [custom support plan](https://axepress.dev/services).
 
 We also offer paid support for other WPGraphQL extensions, as well as custom development services.
